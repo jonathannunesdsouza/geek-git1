@@ -60,7 +60,9 @@ como por exemplo: Windows, Linux e MAC OS.
 ## Meta
 
 Seu nome - [@seulinkedin](https://www.linkedin.com) - @seuemail.com
+
 Distribuido sob a licença . Veja **`LICENÇA`** para mais informações.
+
 [https://enderecodoseuprojetonogithub.com]
 
 
