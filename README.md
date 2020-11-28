@@ -57,7 +57,7 @@ como por exemplo: Windows, Linux e MAC OS.
 * 0.0.1 
     * Projeto inicial.
 
-## MEta
+## Meta
 
 Seu nome - [@seulinkedin](https://www.linkedin.com) - @seuemail.com
 Distribuido sob a licença . Veja **`LICENÇA`** para mais informações.
